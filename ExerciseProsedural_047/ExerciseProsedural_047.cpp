@@ -1,5 +1,4 @@
-
-#include <string>
+#include <iostream>
 using namespace std;
 
 string Status(int matematika, int bahasaInggris) {
